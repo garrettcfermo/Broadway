@@ -1,0 +1,46 @@
+body {
+  text-align: center;
+  font-family: Helvetica,sans-serif;
+  font-size: 14px;
+}
+
+nav {
+  background-image: url("/Users/garrettfermo/Desktop/Programming Training/Codecademy/Build_Websites_from_Scratch/Projects/Broadway/Resources/images/the-flatiron-building.png");
+  color: white;
+}
+
+nav  a {
+  color: white;
+  font-size: 18px;
+}
+
+nav h1 {
+  color: white;
+  font-size: 70px;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+h4 {
+  background-image: url("/Users/garrettfermo/Desktop/Programming Training/Codecademy/Build_Websites_from_Scratch/Projects/Broadway/Resources/images/the-flatiron-building.png");
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+
+
+.footer {
+  color: white;
+  font-size: 11px;
+  background-color: dimgray;
+  text-align: left;
+}
