@@ -5,11 +5,11 @@ body {
 }
 
 nav {
-  background-image: url("/Users/garrettfermo/Desktop/Programming Training/Codecademy/Build_Websites_from_Scratch/Projects/Broadway/Resources/images/the-flatiron-building.png");
+  background-image: url("../images/the-flatiron-building.png");
   color: white;
 }
 
-nav  a {
+a {
   color: white;
   font-size: 18px;
 }
@@ -31,16 +31,15 @@ h3 {
 }
 
 h4 {
-  background-image: url("/Users/garrettfermo/Desktop/Programming Training/Codecademy/Build_Websites_from_Scratch/Projects/Broadway/Resources/images/the-flatiron-building.png");
+  background-image: url("../images/the-flatiron-building.png");
   font-size: 23px;
   font-weight: bold;
   color: white;
 }
 
-
 .footer {
   color: white;
-  font-size: 11px;
+  font-size: 14px;
   background-color: dimgray;
   text-align: left;
 }
